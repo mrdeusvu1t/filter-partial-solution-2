@@ -9,7 +9,7 @@ namespace FilterByPalindromic
         //TODO: Add parameters to the method if necessary.
         static partial void AddAccordingToPredicate()
         {
-            throw new NotImplementedException("");
+            throw new NotImplementedException();
         }
     }
 }
