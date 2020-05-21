@@ -43,7 +43,6 @@ namespace FilterByPalindromic.Tests
             {
                 source[i] = palindromic;
             }
-
             int[] expected = Enumerable.Repeat(palindromic, count).ToArray();
             int[] actual = source.FilterByPredicate();
             CollectionAssert.AreEqual(expected, actual);
