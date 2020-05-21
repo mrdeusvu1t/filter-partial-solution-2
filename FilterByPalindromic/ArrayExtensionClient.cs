@@ -1,13 +1,11 @@
-﻿using System;
+using System;
+using System.Collections.Generic;
 
-namespace FilterByPalindromic
+namespace FilterByDigit
 {
     public static partial class ArrayExtension
     {
-        //TODO: Add code here if necessary.
-        
-        //TODO: Add parameters to the method if necessary.
-        static partial void AddAccordingToPredicate()
+        static partial void AddAccordingToPredicate(List<int> list, int item)
         {
             throw new NotImplementedException();
         }
