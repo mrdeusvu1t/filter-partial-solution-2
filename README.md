@@ -1,1 +1,1 @@
-Obsolete. See new task [here](https://gitlab.com/epam-autocode-tasks/filter-partial-classes-and-methods.git)
+**Obsolete. See new task [here](https://gitlab.com/epam-autocode-tasks/filter-partial-classes-and-methods.git)**
