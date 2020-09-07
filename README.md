@@ -1,3 +1,1 @@
-## Task description ##
-
- See сondition [here](https://gitlab.com/epam-autocode-tasks/filter-partial-solution-1.git).
+Obsolete. See new task [here](https://gitlab.com/epam-autocode-tasks/filter-partial-classes-and-methods.git)
