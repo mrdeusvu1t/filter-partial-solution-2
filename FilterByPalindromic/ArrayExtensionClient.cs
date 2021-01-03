@@ -7,7 +7,7 @@ namespace FilterByPalindromic
     {
         static partial void AddAccordingToPredicate(ICollection<int> list, int item)
         {
-            throw new NotImplementedException();
+ 
         }
     }
 }
